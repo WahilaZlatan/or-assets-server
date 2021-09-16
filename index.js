@@ -1,0 +1,1 @@
+https://my-json-server.typicode.com/WahilaZlatan/or-assets-server

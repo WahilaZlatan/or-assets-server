@@ -1,0 +1,881 @@
+{
+  "users": [
+    {
+      "USER_ID": 1,
+      "FULL_NAMES": "SYSTEM ADMIN",
+      "USERNAME": "amos.otanga@brs.go,ke",
+      "PASSWORD": "JAMES WILLS MACHARIA",
+      "ROLES": [],
+      "STATUS": "ACTIVE"
+    },
+    {
+      "USER_ID": 2,
+      "FULL_NAMES": "JOEL WAWERU",
+      "USERNAME": "joel.waweru@brs.go,ke",
+      "PASSWORD": "JAMES WILLS MACHARIA",
+      "ROLES": [],
+      "STATUS": "IN-ACTIVE"
+    },
+    {
+      "USER_ID": 3,
+      "FULL_NAMES": "BEATRICE OSICHO",
+      "USERNAME": "beatrice.osicho@brs.go,ke",
+      "PASSWORD": "JAMES WILLS MACHARIA",
+      "ROLES": [],
+      "STATUS": "IN-ACTIVE"
+    },
+    {
+      "USER_ID": 4,
+      "FULL_NAMES": "MARK GAKURU",
+      "USERNAME": "mark.gakuru@brs.go,ke",
+      "PASSWORD": "JAMES WILLS MACHARIA",
+      "ROLES": [],
+      "STATUS": "IN-ACTIVE"
+    }
+  ],
+  "audit-trails": [],
+    "ccf-discharged" : [
+        {
+          "NO": 1,
+          "ACNO": "LA/745",
+          "LOANEE": "JAMES WILLS MACHARIA",
+          "SECURITY": "L.R NO LOC.15/GAKUYU/257",
+          "STATUS": "LOAN REPAID ON 16/11/2016"
+        },
+        {
+          "NO": "",
+          "ACNO": "",
+          "LOANEE": "(GUARANTOR CHEGE GATHIRI)",
+          "SECURITY": "",
+          "STATUS": "Kshs. 188,065.00"
+        },
+        {
+          "NO": 2,
+          "ACNO": "LA/71",
+          "LOANEE": "NATALINE WAKIURU",
+          "SECURITY": "L.R NO MARAGWA RIDGE TOWNSHIP/17",
+          "STATUS": "LOAN REPAID ON 23/5/2017"
+        },
+        {
+          "NO": "",
+          "ACNO": "",
+          "LOANEE": "",
+          "SECURITY": "",
+          "STATUS": "Kshs. 14,200.00"
+        },
+        {
+          "NO": 3,
+          "ACNO": "Cm/83",
+          "LOANEE": "SAMUEL THEBERE GATIHI",
+          "SECURITY": "L.R NO OTHAYA/KIAHAGU/574",
+          "STATUS": "LOAN REPAIF ON 29/1/2018"
+        },
+        {
+          "NO": "",
+          "ACNO": "",
+          "LOANEE": "",
+          "SECURITY": "",
+          "STATUS": "Kshs. 171,200.00"
+        },
+        {
+          "NO": 4,
+          "ACNO": "LH/1185",
+          "LOANEE": "JOSEPH KADIMA",
+          "SECURITY": "1.L.R NO N/WAMGA/MAYONI/758",
+          "STATUS": "LAON REPAID ON 13/9/2018"
+        },
+        {
+          "NO": "",
+          "ACNO": "",
+          "LOANEE": "",
+          "SECURITY": "2.Log_book KTQ 949",
+          "STATUS": "Kshs. 80,000.00"
+        },
+        {
+          "NO": 5,
+          "ACNO": "LA/498",
+          "LOANEE": "DAVID NJIRU RUNDIA",
+          "SECURITY": "L.R NO EVURORE/KATHERA/2551",
+          "STATUS": "LAON REPAID ON 2/4/2019"
+        },
+        {
+          "NO": "",
+          "ACNO": "",
+          "LOANEE": "",
+          "SECURITY": "",
+          "STATUS": "Kshs. 274,673.10"
+        },
+        {
+          "NO": 6,
+          "ACNO": "LA/173",
+          "LOANEE": "PETER INYANJUI GEDRAPH",
+          "SECURITY": "L.R NO MWEA/NGUCWI/178",
+          "STATUS": "LOAN REPAID ON 6/6/2019"
+        },
+        {
+          "NO": "",
+          "ACNO": "",
+          "LOANEE": "",
+          "SECURITY": "",
+          "STATUS": "KSHS. 50,122.00"
+        },
+        {
+          "NO": 7,
+          "ACNO": "LA/900",
+          "LOANEE": "MRS. G.M. GICHU",
+          "SECURITY": "L.R NO NAKURU/OLEGURUONE",
+          "STATUS": "LOAN REPAID ON 4/12/2019"
+        },
+        {
+          "NO": "",
+          "ACNO": "",
+          "LOANEE": "(GUARANTOR JOHN GICHURI GICHU)",
+          "SECURITY": "",
+          "STATUS": "KSHS. 39,376.00"
+        },
+        {
+          "NO": 8,
+          "ACNO": "LA/1899",
+          "LOANEE": "NAFTALLY THEURI WAHOME",
+          "SECURITY": "L.R NOOTHAYA/GURA/549",
+          "STATUS": "LOAN REPAID on 5/7/2017"
+        },
+        {
+          "NO": "",
+          "ACNO": "",
+          "LOANEE": "",
+          "SECURITY": "",
+          "STATUS": "Kshs.7,599"
+        }
+      ],
+    "ccf-pending-payments" : [],
+    "ccf-pending-searches" : [],
+    "concord-mmovable": [
+        {
+          "Location_No": "Nairobi",
+          "Code": "",
+          "Type": "MOTOR VEHICLES",
+          "status": "",
+          "Registration_Details": "",
+          "Log_book": "",
+          "Valuation ": ""
+        },
+        {
+          "Location_No": 1,
+          "Code": 101,
+          "Type": "Mercedes Benz C 200",
+          "status": "Company",
+          "Registration_Details": "KBD 200D/Yr 2001/  cc :1990",
+          "Log_book": "R0393485F-ok",
+          "Valuation ": "430,000"
+        },
+        {
+          "Location_No": 2,
+          "Code": 102,
+          "Type": "Toyota Corolla",
+          "status": "Company",
+          "Registration_Details": "KBD 951T/Yr 2000/ cc: 1490",
+          "Log_book": "R0367229C",
+          "Valuation ": "80,000"
+        },
+        {
+          "Location_No": 3,
+          "Code": 103,
+          "Type": "Mitsubishi Galant",
+          "status": "Company",
+          "Registration_Details": "KAS 195X/Yr2004 / cc: 1834",
+          "Log_book": "EAIA 0302859-ok",
+          "Valuation ": "150,000"
+        },
+        {
+          "Location_No": 4,
+          "Code": 104,
+          "Type": "Nissan Wing Road",
+          "status": "Salvage",
+          "Registration_Details": "KBE 464H/ Yr 2001 / cc:1490",
+          "Log_book": "R056590C- ok",
+          "Valuation ": "200,000"
+        },
+        {
+          "Location_No": 5,
+          "Code": 105,
+          "Type": "Motor Cycle",
+          "status": "Company",
+          "Registration_Details": "KMCB 254E/Yr",
+          "Log_book": "R0544515X-ok",
+          "Valuation ": "35,000"
+        },
+        {
+          "Location_No": 6,
+          "Code": 106,
+          "Type": "Toyota Fielder Salvage",
+          "status": "Salvage",
+          "Registration_Details": "KBG 504V/Yr 2002/ cc: 1490",
+          "Log_book": "Original Log_book with Miran Insurance brokers",
+          "Valuation ": "270,000"
+        },
+        {
+          "Location_No": "",
+          "Code": "",
+          "Type": "",
+          "status": "",
+          "Registration_Details": "",
+          "Log_book": "",
+          "Valuation ": ""
+        },
+        {
+          "Location_No": "Mombasa",
+          "Code": "",
+          "Type": "",
+          "status": "",
+          "Registration_Details": "",
+          "Log_book": "",
+          "Valuation ": ""
+        },
+        {
+          "Location_No": 7,
+          "Code": 107,
+          "Type": "Toyota Premio",
+          "status": "Company",
+          "Registration_Details": "KAW 944 R/ Yr 1999/ cc: 1990",
+          "Log_book": "R0212874X-ok",
+          "Valuation ": "200,000"
+        },
+        {
+          "Location_No": "",
+          "Code": "",
+          "Type": "",
+          "status": "",
+          "Registration_Details": "",
+          "Log_book": "",
+          "Valuation ": ""
+        }
+      ],
+    "cosmopolitan-building-society": [
+        {
+          "NATURE": "OLOO OGUTU",
+          "TYPE": "TITLE DEED",
+          "PARTICULARS": "EAST UGENYA/KATHIEN/236",
+          "LOCATION": "UGENYA",
+          "CHARGED": "SIMPLEDEPOSIT",
+          "REMARKS": ""
+        },
+        {
+          "NATURE": "MESHACK OCHOLA DANDE",
+          "TYPE": "TITLE DEED",
+          "PARTICULARS": "SOUTH SAKWA /KOGELO/560",
+          "LOCATION": "NYANZA",
+          "CHARGED": "SIMPLE DEPOSIT",
+          "REMARKS": ""
+        },
+        {
+          "NATURE": "KRISPUS OTIENO ANYIM",
+          "TYPE": "TITLE DEED(ID/1870307/64)",
+          "PARTICULARS": "UHOLO/SIGOMBE/392",
+          "LOCATION": "UGUNJA",
+          "CHARGED": "SIMPLE DEPOSIT",
+          "REMARKS": ""
+        },
+        {
+          "NATURE": "JRACO STORES LTD",
+          "TYPE": "MEMO & ARTICLES OF ASSOCIATION",
+          "PARTICULARS": "DOCUMENTS",
+          "LOCATION": "COMPANIES",
+          "CHARGED": "N/A",
+          "REMARKS": ""
+        },
+        {
+          "NATURE": "LUCY NJOKI KIBUI",
+          "TYPE": "GURANTEE & INDEMNITY",
+          "PARTICULARS": "GURANTEE OF LOAN TO CENTURY CREDIT LTD",
+          "LOCATION": "NAIROBI",
+          "CHARGED": 7000,
+          "REMARKS": ""
+        },
+        {
+          "NATURE": "JACINTA OCHINDO",
+          "TYPE": "CHATTELS INSTRUMENT(Log_book)",
+          "PARTICULARS": "KDZ 637DATSUN PICKUP",
+          "LOCATION": "NTSA NAIROBI",
+          "CHARGED": "65,000",
+          "REMARKS": ""
+        },
+        {
+          "NATURE": "AGNES MURARI MBUGHY",
+          "TYPE": "PREMIUM",
+          "PARTICULARS": "POLICY NO 4968502",
+          "LOCATION": "IRA NAIROBI",
+          "CHARGED": 5000,
+          "REMARKS": ""
+        },
+        {
+          "NATURE": "JOHN OCHIENG ABAJA & MARGARET OCHIENG",
+          "TYPE": "VALUATION REPORT",
+          "PARTICULARS": "STALL NO 171 JERICHO OPEN AIR MARKET",
+          "LOCATION": "NAIROBI",
+          "CHARGED": "50,000",
+          "REMARKS": ""
+        },
+        {
+          "NATURE": "J ALUOCHI",
+          "TYPE": "GUARANTEE TO SECURE LOAN",
+          "PARTICULARS": "DOCUMENTS",
+          "LOCATION": "NAIROBI",
+          "CHARGED": "",
+          "REMARKS": ""
+        },
+        {
+          "NATURE": "JOSEPH MAYENDE  C/O MOHINDER SINGH",
+          "TYPE": "TITLE DEEDGRANT)",
+          "PARTICULARS": "GRANT NOIR 28737 LR. NO2116/249",
+          "LOCATION": "NAIROBI",
+          "CHARGED": "",
+          "REMARKS": "CONDUCT FRESH SEARCH"
+        },
+        {
+          "NATURE": "",
+          "TYPE": "",
+          "PARTICULARS": "",
+          "LOCATION": "CENTRAL REGISTRY",
+          "CHARGED": "",
+          "REMARKS": ""
+        },
+        {
+          "NATURE": "DR WALTER ABILLA",
+          "TYPE": "Log_book",
+          "PARTICULARS": "KPF 707 VOLKSWAGEN",
+          "LOCATION": "NTSA NAIROBI",
+          "CHARGED": "",
+          "REMARKS": ""
+        },
+        {
+          "NATURE": "JANE H. MUSIANI",
+          "TYPE": "Log_book",
+          "PARTICULARS": "KPK 28 FORD",
+          "LOCATION": "NTSA NAIROBI",
+          "CHARGED": "",
+          "REMARKS": ""
+        },
+        {
+          "NATURE": "EDWARD ODUMBE",
+          "TYPE": "Log_book",
+          "PARTICULARS": "KPS 830 FIAT",
+          "LOCATION": "NTSA NAIROBI",
+          "CHARGED": "",
+          "REMARKS": ""
+        },
+        {
+          "NATURE": "EDWARD ODUMBE",
+          "TYPE": "Log_book",
+          "PARTICULARS": "KPS 830 FIAT",
+          "LOCATION": "NTSA NAIROBI",
+          "CHARGED": "",
+          "REMARKS": ""
+        },
+        {
+          "NATURE": "PRISCAL OGWAYO",
+          "TYPE": "Log_book",
+          "PARTICULARS": "KRW 798 FLAT",
+          "LOCATION": "NTSA NAIROBI",
+          "CHARGED": "",
+          "REMARKS": ""
+        },
+        {
+          "NATURE": "JOHN  A.O MAGAK",
+          "TYPE": "Log_book TO SECURE LOAN",
+          "PARTICULARS": "KWA 334 TOYOTA",
+          "LOCATION": "NTSA NAIROBI",
+          "CHARGED": "",
+          "REMARKS": ""
+        },
+        {
+          "NATURE": "PAUL J. OKELO",
+          "TYPE": "VALUATION REPORT",
+          "PARTICULARS": "LR NO 209/8294/333",
+          "LOCATION": "NAIROBI",
+          "CHARGED": "",
+          "REMARKS": ""
+        },
+        {
+          "NATURE": "SAMUEL KAOGA",
+          "TYPE": "POWER OF ATTORNEY",
+          "PARTICULARS": "MOHURU KADEM/MACALDER/204",
+          "LOCATION": "LIQUIDATOR",
+          "CHARGED": "",
+          "REMARKS": ""
+        },
+        {
+          "NATURE": "OYUGA  ZILIPA ATIENO",
+          "TYPE": "BARCLAYS SHARE CERTIFICATE",
+          "PARTICULARS": "NO32915 100 SHARES",
+          "LOCATION": "LIQUIDATOR",
+          "CHARGED": "",
+          "REMARKS": ""
+        },
+        {
+          "NATURE": "KATHRYNE  KARIMU NDETHIU",
+          "TYPE": "ALICO LIFE POLICY",
+          "PARTICULARS": "POLUCY NO 4599622",
+          "LOCATION": "IRA NAIROBI",
+          "CHARGED": "",
+          "REMARKS": ""
+        },
+        {
+          "NATURE": "",
+          "TYPE": "",
+          "PARTICULARS": "",
+          "LOCATION": "",
+          "CHARGED": "",
+          "REMARKS": ""
+        }
+      ],
+    "concord-immovable-mombasa": [],
+    "concord-immovable-kajiado": [],
+    "byt-assets": [
+        {
+          "NAME": "JOHN NJOROGE GUCHITA",
+          "SECURITIES": "TITLE DEED(ID 8335340)",
+          "DETAILS": "LOC.1/CHOMO/578",
+          "INSTITUTION ": "BC NO 95/2006",
+          "LAND_REGISTRY": "MURANGA",
+          "REMARKS": "THE TITLE DEED OWNERSHIP HAS OWNERSHIP ISSUES"
+        },
+        {
+          "NAME": "JOHN NJOROGE GUCHITA",
+          "SECURITIES": "TITLE DEED(ID 8335340)",
+          "DETAILS": "LOC.1/CHOMO/579",
+          "INSTITUTION ": "BC NO 95/2006",
+          "LAND_REGISTRY": "MURANGA",
+          "REMARKS": "THE TITLE DEED OWNERSHIP HAS OWNERSHIP ISSUES"
+        },
+        {
+          "NAME": "JOHN NJOROGE GUCHITA",
+          "SECURITIES": "TITLE DEED(ID 8335340)",
+          "DETAILS": "LOC.1/CHOMO/709",
+          "INSTITUTION ": "BC NO 95/2006",
+          "LAND_REGISTRY": "MURANGA",
+          "REMARKS": "THE TITLE DEED OWNERSHIP HAS OWNERSHIP ISSUES"
+        },
+        {
+          "NAME": "BERNARD NGUU GERALD",
+          "SECURITIES": "TITLE DEED",
+          "DETAILS": "GATURI/WERU/6356",
+          "INSTITUTION ": "BC NO 56/2008",
+          "LAND_REGISTRY": "EMBU",
+          "REMARKS": "THE OFFICE IS IN THE PROCESS OF RELEASING THE DEBTOR�S SECURITIES, HE HAS PAID HIS CREDITORS AND THE STATUTORY O.R FEES."
+        },
+        {
+          "NAME": "BERNARD NGUU GERALD",
+          "SECURITIES": "TITLE DEED",
+          "DETAILS": "GATURI/WERU/6357",
+          "INSTITUTION ": "BC NO 56/2008",
+          "LAND_REGISTRY": "EMBU",
+          "REMARKS": "THE OFFICE IS IN THE PROCESS OF RELEASING THE DEBTOR�S SECURITIES, HE HAS PAID HIS CREDITORS AND THE STATUTORY O.R FEES."
+        },
+        {
+          "NAME": "BERNARD NGUU GERALD",
+          "SECURITIES": "TITLE DEED",
+          "DETAILS": "GATURI/WERU/6358",
+          "INSTITUTION ": "BC NO 56/2008",
+          "LAND_REGISTRY": "EMBU",
+          "REMARKS": "THE OFFICE IS IN THE PROCESS OF RELEASING THE DEBTOR�S SECURITIES, HE HAS PAID HIS CREDITORS AND THE STATUTORY O.R FEES."
+        },
+        {
+          "NAME": "BERNARD NGUU GERALD",
+          "SECURITIES": "TITLE DEED",
+          "DETAILS": "GATURI/WERU/6359",
+          "INSTITUTION ": "BC NO 56/2008",
+          "LAND_REGISTRY": "EMBU",
+          "REMARKS": "THE OFFICE IS IN THE PROCESS OF RELEASING THE DEBTOR�S SECURITIES, HE HAS PAID HIS CREDITORS AND THE STATUTORY O.R FEES."
+        },
+        {
+          "NAME": "BERNARD NGUU GERALD",
+          "SECURITIES": "TITLE DEED",
+          "DETAILS": "GATURI/WERU/6356",
+          "INSTITUTION ": "BC NO 56/2008",
+          "LAND_REGISTRY": "EMBU",
+          "REMARKS": "THE OFFICE IS IN THE PROCESS OF RELEASING THE DEBTOR�S SECURITIES, HE HAS PAID HIS CREDITORS AND THE STATUTORY O.R FEES."
+        },
+        {
+          "NAME": "MR. JOSEPH WANJALA CHALICHALI",
+          "SECURITIES": "TITLE DEED",
+          "DETAILS": "BUNGOMA/NDALU/531",
+          "INSTITUTION ": "BC/2/1981",
+          "LAND_REGISTRY": "BUNGOMA",
+          "REMARKS": "OFFICE AWAITING THE  ISSUANCE OF ADMISTRATION LETTERS IN ORDER TO RELEASE THE TRANSFERS THE TITLES TO THE OWNERS"
+        },
+        {
+          "NAME": "OFFICIAL RECEIVER C/O JOEL M�MBAYI SAMWEL",
+          "SECURITIES": "TITLE DEED",
+          "DETAILS": "BUNGOMA/NDALU/534",
+          "INSTITUTION ": "BC/2/1981",
+          "LAND_REGISTRY": "BUNGOMA",
+          "REMARKS": "OFFICE AWAITING THE  ISSUANCE OF ADMISTRATION LETTERS IN ORDER TO RELEASE THE TRANSFERS THE TITLES TO THE OWNERS"
+        },
+        {
+          "NAME": "OFFICIAL RECEIVER C/O MR. JOGINDER MARK IMBWAKA",
+          "SECURITIES": "TITLE DEED",
+          "DETAILS": "BUNGOMA/NDALU/536",
+          "INSTITUTION ": "BC/2/1981",
+          "LAND_REGISTRY": "BUNGOMA",
+          "REMARKS": "AWAITING THE BENEFICIARIES TO SUPPLY RELEVANT DOCUMENTATION IN ORDER TO EFFECT TRANSFER OF THE TITLE."
+        },
+        {
+          "NAME": "OFFICIAL RECEIVER C/O THE CHRISCO CHURCH NDALU",
+          "SECURITIES": "TITLE DEED",
+          "DETAILS": "BUNGOMA/NDALU/544",
+          "INSTITUTION ": "BC/2/1981",
+          "LAND_REGISTRY": "BUNGOMA",
+          "REMARKS": "AWAITING THE BENEFICIARIES TO SUPPLY RELEVANT DOCUMENTATION IN ORDER TO EFFECT TRANSFER OF THE TITLE."
+        },
+        {
+          "NAME": "M OFFICIAL RECEIVER C/O RS RODA NANJALA ONYANGO",
+          "SECURITIES": "TITLE DEED",
+          "DETAILS": "BUNGOMA/NDALU/548",
+          "INSTITUTION ": "BC/2/1981",
+          "LAND_REGISTRY": "BUNGOMA",
+          "REMARKS": "AWAITING THE BENEFICIARIES TO SUPPLY RELEVANT DOCUMENTATION IN ORDER TO EFFECT TRANSFER OF THE TITLE."
+        },
+        {
+          "NAME": "OFFICIAL RECEIVER C/O MR. ELIUD KUKAU LUKHANDO",
+          "SECURITIES": "TITLE DEED",
+          "DETAILS": "BUNGOMA/NDALU/554",
+          "INSTITUTION ": "BC/2/1981",
+          "LAND_REGISTRY": "BUNGOMA",
+          "REMARKS": "AWAITING THE BENEFICIARIES TO SUPPLY RELEVANT DOCUMENTATION IN ORDER TO EFFECT TRANSFER OF THE TITLE."
+        },
+        {
+          "NAME": "OFFICIAL RECEIVER C/O MR. BERNARD WAMALWA WANYONYI",
+          "SECURITIES": "TITLE DEED",
+          "DETAILS": "BUNGOMA/NDALU/555",
+          "INSTITUTION ": "BC/2/1981",
+          "LAND_REGISTRY": "BUNGOMA",
+          "REMARKS": "AWAITING THE BENEFICIARIES TO SUPPLY RELEVANT DOCUMENTATION IN ORDER TO EFFECT TRANSFER OF THE TITLE."
+        },
+        {
+          "NAME": "OFFICIAL RECEIVER C/O MRS.JEMIMA OMBIMA",
+          "SECURITIES": "TITLE DEED",
+          "DETAILS": "BUNGOMA/NDALU/557",
+          "INSTITUTION ": "BC/2/1981",
+          "LAND_REGISTRY": "BUNGOMA",
+          "REMARKS": "AWAITING THE BENEFICIARIES TO SUPPLY RELEVANT DOCUMENTATION IN ORDER TO EFFECT TRANSFER OF THE TITLE."
+        },
+        {
+          "NAME": "MEHBOOB MUGHAL",
+          "SECURITIES": "TITLE DEED",
+          "DETAILS": "MAKINDU/KALILI",
+          "INSTITUTION ": "BC/1/1999",
+          "LAND_REGISTRY": "KIBWEZI",
+          "REMARKS": "OR DISCHARDED BY COURT, MATTER CLOSED.RELEASE THE TITLE TO THE DEBTOR"
+        },
+        {
+          "NAME": "JATINDER SINGH DHANJAL",
+          "SECURITIES": "TITLE DEED",
+          "DETAILS": "KISII/MUN/BLK 11/192",
+          "INSTITUTION ": "BC/06/2005",
+          "LAND_REGISTRY": "KISII",
+          "REMARKS": "AWAITING DETERMINATION OF KISII ELC NO 137/2010 EACC VS JATINDER SIGN"
+        },
+        {
+          "NAME": "LABANSON MAINA CHEGE",
+          "SECURITIES": "TITLE DEED",
+          "DETAILS": "KIINE/RUIRU/795",
+          "INSTITUTION ": "BC NO 4/2012",
+          "LAND_REGISTRY": "NYERI",
+          "REMARKS": "RESTRICTION BY O.R ACTIVE CASE"
+        },
+        {
+          "NAME": "JOHN GITAHI NGATIA",
+          "SECURITIES": "TITLE DEED",
+          "DETAILS": "GAKAWA/MITHIMA/BLOCK3/MIKUMBUNE/71",
+          "INSTITUTION ": "BC/132/2005",
+          "LAND_REGISTRY": "NYERI",
+          "REMARKS": "MATTER ONGOING DEBTOR SUMMONED BY ACTION OFFICER"
+        },
+        {
+          "NAME": "RUGI NGURURU",
+          "SECURITIES": "TITLE DEED",
+          "DETAILS": "CHINGA/GIKIGE/882",
+          "INSTITUTION ": "BC 93/2006",
+          "LAND_REGISTRY": "NYERI",
+          "REMARKS": "CASE FINALISED IN COURT, MATTER SETTLED & CLOSED AND O.R DISCHARGED. TITLE DEED TO BE RELEASED TO THE OWNER"
+        }
+      ],
+    "budget-building-society": [
+      {
+        "NAME": "JOHN NJOROGE GUCHITA",
+        "SECURITIES": "TITLE DEED(ID 8335340)",
+        "DETAILS": "LOC.1/CHOMO/578",
+        "INSTITUTION ": "BC NO 95/2006",
+        "LAND_REGISTRY": "MURANGA",
+        "REMARKS": "THE TITLE DEED OWNERSHIP HAS OWNERSHIP ISSUES"
+      },
+      {
+        "NAME": "JOHN NJOROGE GUCHITA",
+        "SECURITIES": "TITLE DEED(ID 8335340)",
+        "DETAILS": "LOC.1/CHOMO/579",
+        "INSTITUTION ": "BC NO 95/2006",
+        "LAND_REGISTRY": "MURANGA",
+        "REMARKS": "THE TITLE DEED OWNERSHIP HAS OWNERSHIP ISSUES"
+      },
+      {
+        "NAME": "JOHN NJOROGE GUCHITA",
+        "SECURITIES": "TITLE DEED(ID 8335340)",
+        "DETAILS": "LOC.1/CHOMO/709",
+        "INSTITUTION ": "BC NO 95/2006",
+        "LAND_REGISTRY": "MURANGA",
+        "REMARKS": "THE TITLE DEED OWNERSHIP HAS OWNERSHIP ISSUES"
+      },
+      {
+        "NAME": "BERNARD NGUU GERALD",
+        "SECURITIES": "TITLE DEED",
+        "DETAILS": "GATURI/WERU/6356",
+        "INSTITUTION ": "BC NO 56/2008",
+        "LAND_REGISTRY": "EMBU",
+        "REMARKS": "THE OFFICE IS IN THE PROCESS OF RELEASING THE DEBTOR�S SECURITIES, HE HAS PAID HIS CREDITORS AND THE STATUTORY O.R FEES."
+      },
+      {
+        "NAME": "BERNARD NGUU GERALD",
+        "SECURITIES": "TITLE DEED",
+        "DETAILS": "GATURI/WERU/6357",
+        "INSTITUTION ": "BC NO 56/2008",
+        "LAND_REGISTRY": "EMBU",
+        "REMARKS": "THE OFFICE IS IN THE PROCESS OF RELEASING THE DEBTOR�S SECURITIES, HE HAS PAID HIS CREDITORS AND THE STATUTORY O.R FEES."
+      },
+      {
+        "NAME": "BERNARD NGUU GERALD",
+        "SECURITIES": "TITLE DEED",
+        "DETAILS": "GATURI/WERU/6358",
+        "INSTITUTION ": "BC NO 56/2008",
+        "LAND_REGISTRY": "EMBU",
+        "REMARKS": "THE OFFICE IS IN THE PROCESS OF RELEASING THE DEBTOR�S SECURITIES, HE HAS PAID HIS CREDITORS AND THE STATUTORY O.R FEES."
+      },
+      {
+        "NAME": "BERNARD NGUU GERALD",
+        "SECURITIES": "TITLE DEED",
+        "DETAILS": "GATURI/WERU/6359",
+        "INSTITUTION ": "BC NO 56/2008",
+        "LAND_REGISTRY": "EMBU",
+        "REMARKS": "THE OFFICE IS IN THE PROCESS OF RELEASING THE DEBTOR�S SECURITIES, HE HAS PAID HIS CREDITORS AND THE STATUTORY O.R FEES."
+      },
+      {
+        "NAME": "BERNARD NGUU GERALD",
+        "SECURITIES": "TITLE DEED",
+        "DETAILS": "GATURI/WERU/6356",
+        "INSTITUTION ": "BC NO 56/2008",
+        "LAND_REGISTRY": "EMBU",
+        "REMARKS": "THE OFFICE IS IN THE PROCESS OF RELEASING THE DEBTOR�S SECURITIES, HE HAS PAID HIS CREDITORS AND THE STATUTORY O.R FEES."
+      },
+      {
+        "NAME": "MR. JOSEPH WANJALA CHALICHALI",
+        "SECURITIES": "TITLE DEED",
+        "DETAILS": "BUNGOMA/NDALU/531",
+        "INSTITUTION ": "BC/2/1981",
+        "LAND_REGISTRY": "BUNGOMA",
+        "REMARKS": "OFFICE AWAITING THE  ISSUANCE OF ADMISTRATION LETTERS IN ORDER TO RELEASE THE TRANSFERS THE TITLES TO THE OWNERS"
+      },
+      {
+        "NAME": "OFFICIAL RECEIVER C/O JOEL M�MBAYI SAMWEL",
+        "SECURITIES": "TITLE DEED",
+        "DETAILS": "BUNGOMA/NDALU/534",
+        "INSTITUTION ": "BC/2/1981",
+        "LAND_REGISTRY": "BUNGOMA",
+        "REMARKS": "OFFICE AWAITING THE  ISSUANCE OF ADMISTRATION LETTERS IN ORDER TO RELEASE THE TRANSFERS THE TITLES TO THE OWNERS"
+      },
+      {
+        "NAME": "OFFICIAL RECEIVER C/O MR. JOGINDER MARK IMBWAKA",
+        "SECURITIES": "TITLE DEED",
+        "DETAILS": "BUNGOMA/NDALU/536",
+        "INSTITUTION ": "BC/2/1981",
+        "LAND_REGISTRY": "BUNGOMA",
+        "REMARKS": "AWAITING THE BENEFICIARIES TO SUPPLY RELEVANT DOCUMENTATION IN ORDER TO EFFECT TRANSFER OF THE TITLE."
+      },
+      {
+        "NAME": "OFFICIAL RECEIVER C/O THE CHRISCO CHURCH NDALU",
+        "SECURITIES": "TITLE DEED",
+        "DETAILS": "BUNGOMA/NDALU/544",
+        "INSTITUTION ": "BC/2/1981",
+        "LAND_REGISTRY": "BUNGOMA",
+        "REMARKS": "AWAITING THE BENEFICIARIES TO SUPPLY RELEVANT DOCUMENTATION IN ORDER TO EFFECT TRANSFER OF THE TITLE."
+      },
+      {
+        "NAME": "M OFFICIAL RECEIVER C/O RS RODA NANJALA ONYANGO",
+        "SECURITIES": "TITLE DEED",
+        "DETAILS": "BUNGOMA/NDALU/548",
+        "INSTITUTION ": "BC/2/1981",
+        "LAND_REGISTRY": "BUNGOMA",
+        "REMARKS": "AWAITING THE BENEFICIARIES TO SUPPLY RELEVANT DOCUMENTATION IN ORDER TO EFFECT TRANSFER OF THE TITLE."
+      },
+      {
+        "NAME": "OFFICIAL RECEIVER C/O MR. ELIUD KUKAU LUKHANDO",
+        "SECURITIES": "TITLE DEED",
+        "DETAILS": "BUNGOMA/NDALU/554",
+        "INSTITUTION ": "BC/2/1981",
+        "LAND_REGISTRY": "BUNGOMA",
+        "REMARKS": "AWAITING THE BENEFICIARIES TO SUPPLY RELEVANT DOCUMENTATION IN ORDER TO EFFECT TRANSFER OF THE TITLE."
+      },
+      {
+        "NAME": "OFFICIAL RECEIVER C/O MR. BERNARD WAMALWA WANYONYI",
+        "SECURITIES": "TITLE DEED",
+        "DETAILS": "BUNGOMA/NDALU/555",
+        "INSTITUTION ": "BC/2/1981",
+        "LAND_REGISTRY": "BUNGOMA",
+        "REMARKS": "AWAITING THE BENEFICIARIES TO SUPPLY RELEVANT DOCUMENTATION IN ORDER TO EFFECT TRANSFER OF THE TITLE."
+      },
+      {
+        "NAME": "OFFICIAL RECEIVER C/O MRS.JEMIMA OMBIMA",
+        "SECURITIES": "TITLE DEED",
+        "DETAILS": "BUNGOMA/NDALU/557",
+        "INSTITUTION ": "BC/2/1981",
+        "LAND_REGISTRY": "BUNGOMA",
+        "REMARKS": "AWAITING THE BENEFICIARIES TO SUPPLY RELEVANT DOCUMENTATION IN ORDER TO EFFECT TRANSFER OF THE TITLE."
+      },
+      {
+        "NAME": "MEHBOOB MUGHAL",
+        "SECURITIES": "TITLE DEED",
+        "DETAILS": "MAKINDU/KALILI",
+        "INSTITUTION ": "BC/1/1999",
+        "LAND_REGISTRY": "KIBWEZI",
+        "REMARKS": "OR DISCHARDED BY COURT, MATTER CLOSED.RELEASE THE TITLE TO THE DEBTOR"
+      },
+      {
+        "NAME": "JATINDER SINGH DHANJAL",
+        "SECURITIES": "TITLE DEED",
+        "DETAILS": "KISII/MUN/BLK 11/192",
+        "INSTITUTION ": "BC/06/2005",
+        "LAND_REGISTRY": "KISII",
+        "REMARKS": "AWAITING DETERMINATION OF KISII ELC NO 137/2010 EACC VS JATINDER SIGN"
+      },
+      {
+        "NAME": "LABANSON MAINA CHEGE",
+        "SECURITIES": "TITLE DEED",
+        "DETAILS": "KIINE/RUIRU/795",
+        "INSTITUTION ": "BC NO 4/2012",
+        "LAND_REGISTRY": "NYERI",
+        "REMARKS": "RESTRICTION BY O.R ACTIVE CASE"
+      },
+      {
+        "NAME": "JOHN GITAHI NGATIA",
+        "SECURITIES": "TITLE DEED",
+        "DETAILS": "GAKAWA/MITHIMA/BLOCK3/MIKUMBUNE/71",
+        "INSTITUTION ": "BC/132/2005",
+        "LAND_REGISTRY": "NYERI",
+        "REMARKS": "MATTER ONGOING DEBTOR SUMMONED BY ACTION OFFICER"
+      },
+      {
+        "NAME": "RUGI NGURURU",
+        "SECURITIES": "TITLE DEED",
+        "DETAILS": "CHINGA/GIKIGE/882",
+        "INSTITUTION ": "BC 93/2006",
+        "LAND_REGISTRY": "NYERI",
+        "REMARKS": "CASE FINALISED IN COURT, MATTER SETTLED & CLOSED AND O.R DISCHARGED. TITLE DEED TO BE RELEASED TO THE OWNER"
+      }
+    ],
+    "ccf-simple-deposits": [
+        {
+          "NO": 1,
+          "ACNO": "CM/6",
+          "LOANEE": "INDIAN OCEAN SHIPHANDLERS",
+          "SECURITY": "L.R NO KWALE PUNGU FUEL AREA 111",
+          "REMARKS": ""
+        },
+        {
+          "NO": "",
+          "ACNO": "",
+          "LOANEE": "OWNER: NGAMU ENTERPRISES LTD",
+          "SECURITY": "",
+          "REMARKS": ""
+        },
+        {
+          "NO": 2,
+          "ACNO": "LA/85",
+          "LOANEE": "JOHN MUBIA WAIRAGU",
+          "SECURITY": "L.R NO MWERUA/KABIRIRI/527",
+          "REMARKS": ""
+        },
+        {
+          "NO": 3,
+          "ACNO": "LA/507",
+          "LOANEE": "MORRIS G. NJAGE & DOROTHY NJAGE",
+          "SECURITY": "L.R NO NGANDORI/KIRIGI.856",
+          "REMARKS": ""
+        },
+        {
+          "NO": 4,
+          "ACNO": "LA/1278",
+          "LOANEE": "WANKE LTD",
+          "SECURITY": "L.R NO 209/9730",
+          "REMARKS": ""
+        },
+        {
+          "NO": "",
+          "ACNO": "",
+          "LOANEE": "",
+          "SECURITY": "GRANT I.R NO 36798",
+          "REMARKS": ""
+        },
+        {
+          "NO": 5,
+          "ACNO": "LA/1744",
+          "LOANEE": "NATHANI KAHARA",
+          "SECURITY": "L.R NO CHEMBE/KIBABAMSHE/375",
+          "REMARKS": ""
+        },
+        {
+          "NO": "",
+          "ACNO": "",
+          "LOANEE": "(GUARANTOR ROBERT GITHINJI MUREITHI",
+          "SECURITY": "",
+          "REMARKS": ""
+        },
+        {
+          "NO": 6,
+          "ACNO": "LA/1861",
+          "LOANEE": "JOSEPH KIONGO WARURU",
+          "SECURITY": "SHARE CERTIFICATE NO 15474 FOR SHARES THOME FAMERS NO 4 LTD",
+          "REMARKS": ""
+        },
+        {
+          "NO": 7,
+          "ACNO": "LH/1221",
+          "LOANEE": "JOSEPH MACHARIA THUKU",
+          "SECURITY": "L.R NO SHARE CERTIFICATE NO 688 WITEITHIE GWAKA INVETMENT LTD",
+          "REMARKS": ""
+        },
+        {
+          "NO": "",
+          "ACNO": "",
+          "LOANEE": "(GURANTOR JOYCE WAMBUI MACHARIA)",
+          "SECURITY": "",
+          "REMARKS": ""
+        },
+        {
+          "NO": 8,
+          "ACNO": "LA/795",
+          "LOANEE": "TRIMBORN (K) LTD",
+          "SECURITY": "L.R NO KIRIMUKUYU/MBOGOIRII/171",
+          "REMARKS": ""
+        },
+        {
+          "NO": "",
+          "ACNO": "",
+          "LOANEE": "(GUARANTOR WAITHAKA S/O MURUGU",
+          "SECURITY": "",
+          "REMARKS": ""
+        },
+        {
+          "NO": 9,
+          "ACNO": "LH/602",
+          "LOANEE": "EPHARAHIM HELMONT MBOYA",
+          "SECURITY": "Log_book KSM 524.",
+          "REMARKS": ""
+        },
+        {
+          "NO": "",
+          "ACNO": "",
+          "LOANEE": "",
+          "SECURITY": "L.R NO E.KACHUONYO/KOWUOR/276",
+          "REMARKS": ""
+        }
+      ]
+}
